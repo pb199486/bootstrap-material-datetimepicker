@@ -1,7 +1,7 @@
 # bootstrap-material-datetimepicker
 Material DateTimePicker 
 
-Originaly designed for Bootstrap Material, the V2.0 is now completely standalone and responsive.
+Originaly designed for Materialize.
 
 ### Updates
 
@@ -17,6 +17,8 @@ Originaly designed for Bootstrap Material, the V2.0 is now completely standalone
 | 2015-04-10		| Peterzen			| Added bower and requirejs support						 |
 | 2015-04-08		| T00rk				| Fixed problem on locale switch						 |
 | 2015-03-04		| T00rk				| Added Time picker										 |
+| 2015-09-25		| HaoDai			| change dependence to materialize						 |
+
 (\*) File names have been changed 
 
 bootstrap-material-datepicker.js => bootstrap-material-date**time**picker.js
@@ -27,14 +29,14 @@ bootstrap-material-datepicker.css => bootstrap-material-date**time**picker.css
 
 jquery [http://jquery.com/download/](http://jquery.com/download/)
 
+bootstrap [http://getbootstrap.com/](http://getbootstrap.com/)
+
+Materialize [http://materializecss.com/](http://materializecss.com/)
+
 momentjs [http://momentjs.com/](http://momentjs.com/)
 
 Google Material Icon Font `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">`
 
-
-### Live Example
-
-Click [here](http://t00rk.github.io/bootstrap-material-datetimepicker/) to see
 
 ### Usage
 
