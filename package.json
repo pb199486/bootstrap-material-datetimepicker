@@ -10,6 +10,7 @@
     "front-end",
     "web"
   ],
+  "homepage": "https://github.com/pb199486/bootstrap-material-datetimepicker",
   "main": [
     "js/bootstrap-material-datetimepicker.js",
     "css/bootstrap-material-datetimepicker.css"
@@ -25,10 +26,13 @@
     "test-infra"
   ],
   "dependencies": {
+    "momentjs": "~2.10.2",
     "bootstrap": "~3.3.4",
     "jquery": "1.11.0",
-    "material-design-icons": "~2.0.0",
-    "Materialize": "materialize#~0.97.1",
-    "momentjs": "~2.10.2"
+    "bootstrap-material-design": "~0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pb199486/bootstrap-material-datetimepicker"
   }
 }

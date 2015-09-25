@@ -10,6 +10,7 @@
     "front-end",
     "web"
   ],
+  "homepage": "https://github.com/pb199486/bootstrap-material-datetimepicker",
   "main": [
     "js/bootstrap-material-datetimepicker.js",
     "css/bootstrap-material-datetimepicker.css"

@@ -37,6 +37,9 @@ momentjs [http://momentjs.com/](http://momentjs.com/)
 
 Google Material Icon Font `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">`
 
+### Live Example
+
+Click [here](http://pb199486.github.io/bootstrap-material-datetimepicker/) to see
 
 ### Usage
 
